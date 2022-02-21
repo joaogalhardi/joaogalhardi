@@ -4,7 +4,8 @@
 
 - I'm currently focusing on learning about front-end development which is the area where I want to work!
 - I've been taking programming courses since July / 2021 ( Origamid and Programador BR).
-- I wanna become a great developer and I just need of an opportunity.
+- I wanna become a great developer and evolve every day more
+.
 
 ### Currently learning:
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/joaogalhardi)
