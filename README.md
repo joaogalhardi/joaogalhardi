@@ -8,12 +8,16 @@
 .
 
 ### Currently learning:
-[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/joaogalhardi)
+<img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+
+##
 
 ### Technologies:
-[![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&labelColor=black)](https://github.com/joaogalhardi)
-[![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&labelColor=black)](https://github.com/joaogalhardi)
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&labelColor=black)](https://github.com/joaogalhardi)
+<div display:"inline-block">
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+</div>
 
 ##
 
