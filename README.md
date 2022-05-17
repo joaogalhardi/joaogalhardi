@@ -35,5 +35,9 @@
 
 </div>
 
-## If you wanna see my own projects scroll until the pinned soon below 👇
+<div align="center">
+
+### If you wanna see my own projects scroll until the pinned soon below 👇
+
+</div>
 
