@@ -34,3 +34,6 @@
 <a href = "mailto:joaogalhardi.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
+
+## If you wanna see my own projects scroll until the pinned soon below 👇
+
