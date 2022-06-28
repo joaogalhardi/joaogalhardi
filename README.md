@@ -40,7 +40,7 @@
 
 <div align="center">
 
-### If you wanna see my own projects scroll until the pinned soon below 👇
+### If you wanna see my my own favorites projects scroll until the pinned soon below 👇, for access more own projects go to repositories!
 
 </div>
 
